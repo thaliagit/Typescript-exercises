@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"],
+  "include": ["src", "exercise-1-primitive-types-start.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
